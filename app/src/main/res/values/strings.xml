@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">myapp_2</string>
+    <string name="str_greeting">반갑습니다</string>
+    <string name="str_request_intent">인탠트 요청</string>
 </resources>
